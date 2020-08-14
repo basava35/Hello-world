@@ -1,7 +1,1 @@
-#include<stdio.h>
-
-int main()
-{
-    print("Hello World\n");
-    return 0;
-}
+This is the python Project
